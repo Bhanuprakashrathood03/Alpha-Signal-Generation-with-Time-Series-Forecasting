@@ -1,4 +1,4 @@
-<img src="image_001.png">
+<img src="image_001.jpg">
 
 
 # Quantitative Finance Project
