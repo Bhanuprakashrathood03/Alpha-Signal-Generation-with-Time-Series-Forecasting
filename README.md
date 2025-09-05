@@ -3,8 +3,8 @@
 
 # Quantitative Finance Project
 
-Keyvan Tajbakhsh  
-July 26th, 2020
+Ramavath Bhanuprakash
+15-July, 2023
 
 This reasearch project is realized in Python language and edited in <i>Jupyter Notebook</i> environement. Before diving into it, please read carefully all requirements and instructions mentioned below. 
 
